@@ -1,0 +1,33 @@
+#canvas1{
+    border: 5px solid black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 600px;
+    height: 600px;
+  }
+
+  p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color:black;
+
+  }
+  
+  body{
+    background-color:crimson;
+  }
+
+  #movimientos{
+    margin-top: 15%;
+  }
+
+  #movimientoss{
+    margin-top: -16%;
+  }
+
+  h1{
+    color: aliceblue;
+  }
+  
